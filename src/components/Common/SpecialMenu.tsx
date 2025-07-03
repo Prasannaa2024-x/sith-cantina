@@ -236,7 +236,7 @@ const SpecialMenu: React.FC<SpecialMenuProps> = ({ isOpen, onClose }) => {
               <h3 className="text-2xl font-bold galactic-font galactic-text mb-3">Easter Egg Unlocked!</h3>
               <p className="text-gray-300 text-lg leading-relaxed max-w-3xl mx-auto">
                 <strong className="text-cosmic-400">Congratulations, galactic explorer!</strong> You've discovered the secret droid menu featuring legendary cuisine from across the galaxy. 
-                These mythical items don't actually exist in our cantina, but wouldn't it be amazing if they did? 
+                These mythical items don't actually exist in our cantina, but wouldn\'t it be amazing if they did? 
                 The droid will remember your discovery! 🤖✨
               </p>
               <div className="mt-6 flex items-center justify-center space-x-4 text-sm text-gray-400">
